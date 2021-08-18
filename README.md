@@ -6,3 +6,4 @@ User Manual that have arisen from work on the Develoment Manual and Plugin Manua
 
 The User Manual is written using Dokuwiki and is located here
 https://opencpn.org/wiki/dokuwiki/doku.php?id=opencpn
+The User Manual also needs a facelift and update.
